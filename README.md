@@ -59,6 +59,10 @@ To predict the presence of **breast cancer** using diagnostic data. The target v
 - Visual insights using Matplotlib and Seaborn
 - Consistent train-test split using stratification
 
+## Screenshots 
+![Image Alt]([image_url](https://github.com/upangshu1234/Breast-Cancer-Prediction/blob/a6beb2f2f1b20ee491ad3bf11b8e4f04e07336f4/Screenshot%20(1).png))
+![Image Alt]([image_url](https://github.com/upangshu1234/Breast-Cancer-Prediction/blob/a6beb2f2f1b20ee491ad3bf11b8e4f04e07336f4/Screenshot%20(2).png))
+
 ## ✅ Requirements
 Install the required libraries using:
 
